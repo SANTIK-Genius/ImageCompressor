@@ -1,0 +1,12 @@
+{
+    "input_folder": "input",
+    "output_folder": "output",
+    "max_file_size_mb": 1,
+    "quality_jpeg": 85,
+    "quality_png": 85,
+    "resize_enabled": false,
+    "max_width": 1920,
+    "max_height": 1080,
+    "preserve_metadata": true,
+    "supported_formats": [".jpg", ".jpeg", ".png", ".bmp", ".tiff", ".webp"]
+}
